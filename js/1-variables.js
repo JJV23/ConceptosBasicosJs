@@ -20,3 +20,9 @@ o guardado en la cajita o variable comisión.
 Para guardar string (cadena de texto) se usa comillas dobles o simples.  
 */
 let comision = "c74i";
+
+//mostrar mensajes 
+console.log(7+8);
+console.log(comision); 
+//lo que esta entre comillas es un texto, el signo + concatena lo que tienen la variable comision
+console.log("comisión: " + comision); 
